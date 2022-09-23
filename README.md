@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Muhammed Enes and I'm freshman at Bilkent University
 - 👀 I’m interested in .Coding..
 - 🌱 I’m currently learning ..Java.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me menesahin7@gmail.com
 
 <!---
