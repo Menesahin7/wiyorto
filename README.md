@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wiyorto
+- 👋 Hi, I’m Muhammed Enes and I'm fresman at Bilkent University
 - 👀 I’m interested in .Coding..
 - 🌱 I’m currently learning ..Java.
 - 💞️ I’m looking to collaborate on ...
